@@ -1,0 +1,13 @@
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability\bin\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.deps.json
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability\bin\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.runtimeconfig.json
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability\bin\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.runtimeconfig.dev.json
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability\bin\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.dll
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability\obj\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.csproj.CoreCompileInputs.cache
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability\obj\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.RazorAssemblyInfo.cache
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability\obj\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.RazorAssemblyInfo.cs
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability\obj\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.AssemblyInfoInputs.cache
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability\obj\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.AssemblyInfo.cs
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability\obj\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.RazorTargetAssemblyInfo.cache
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability\bin\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.pdb
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability\obj\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.dll
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability\obj\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.pdb

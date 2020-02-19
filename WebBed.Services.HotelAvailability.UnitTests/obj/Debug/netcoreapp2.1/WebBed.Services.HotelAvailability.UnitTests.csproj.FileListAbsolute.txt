@@ -1,0 +1,14 @@
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability.UnitTests\bin\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.UnitTests.deps.json
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability.UnitTests\bin\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.UnitTests.runtimeconfig.json
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability.UnitTests\bin\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.UnitTests.runtimeconfig.dev.json
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability.UnitTests\bin\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.UnitTests.dll
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability.UnitTests\bin\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.UnitTests.pdb
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability.UnitTests\obj\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.UnitTests.csprojAssemblyReference.cache
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability.UnitTests\obj\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability.UnitTests\obj\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.UnitTests.AssemblyInfoInputs.cache
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability.UnitTests\obj\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.UnitTests.AssemblyInfo.cs
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability.UnitTests\obj\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.UnitTests.dll
+C:\Users\Shehroz Ahmed Khan\source\repos\WebBed.Services.HotelAvailability\WebBed.Services.HotelAvailability.UnitTests\obj\Debug\netcoreapp2.1\WebBed.Services.HotelAvailability.UnitTests.pdb
